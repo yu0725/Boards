@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+    <title>Boards</title>
+    <link rel="stylesheet" href="top.css" type="text/css"/>
+</head>
+<body>
+
+<h1>
+<img src="logo.jpeg" width=50% height=10% alt="Boards">
+</h1>
+
+<div class="copy">出会おう。遊ぼう。</div>
+
+<form>
+  <p>
+<label>なまえ<input type="text" name="name"></label><br>
+<label>あいことば<input type="text" name="password"></label>
+  </p>
+
+  <p><input type="submit"　value="遊ぶ"></p>
+
+  <div><a href="sample">はじめて遊ぶ</a></div>
+</form>
+</body>
+</html>
